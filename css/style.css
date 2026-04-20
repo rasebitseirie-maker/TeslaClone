@@ -16,3 +16,17 @@ nav h1 {
 section {
     padding: 40px;
 }
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav ul {
+    display: flex;
+    list-style: none;
+}
+
+nav li {
+    margin-left: 20px;
+}

@@ -1,0 +1,17 @@
+body {
+    background-color: red;
+}
+
+nav {
+    background-color: black;
+    color: white;
+    padding: 15px;
+}
+
+nav h1 {
+    margin: 0;
+}
+
+section {
+    padding: 40px;
+}

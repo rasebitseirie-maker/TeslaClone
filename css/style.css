@@ -71,13 +71,13 @@ button {
   cursor: pointer;
 }
 
-.primary-btn {
-  background-color: black;
+.primary-btn { 
+  background-color:#3e6ae1;
   color: white;
 }
 
 .secondary-btn {
-  background-color: rgba(255, 255, 255, 0.8);
+     background-color: white;
   color: black;
 }
 .hero-buttons {

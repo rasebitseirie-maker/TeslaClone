@@ -40,7 +40,6 @@ button {
     margin: 10px 0;
 }
 .nav-icons img {
-  width: 10px;
-  height: 10px;
-  cursor: pointer;
+  width: 12px;
+  height: auto;
 }

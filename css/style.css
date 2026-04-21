@@ -1,4 +1,4 @@
-# card {
+.card {
    display : flex;
    gap : 10px; 
 }

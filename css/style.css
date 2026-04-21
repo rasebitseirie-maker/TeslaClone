@@ -80,3 +80,10 @@ button {
   background-color: rgba(255, 255, 255, 0.8);
   color: black;
 }
+.hero-buttons {
+  justify-content: center;
+}
+
+.hero-buttons button {
+  width: 200px;
+}

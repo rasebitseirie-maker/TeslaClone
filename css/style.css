@@ -39,3 +39,8 @@ button {
     font-weight: bold;
     margin: 10px 0;
 }
+.nav-icons img {
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+}

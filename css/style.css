@@ -34,4 +34,8 @@ button {
     border-radius: 4px;
     cursor: pointer;
 }
-
+.card h1 {
+    font-size: 28px;
+    font-weight: bold;
+    margin: 10px 0;
+}

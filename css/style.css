@@ -17,10 +17,18 @@ nav {
 }
 nav ul {
   display: flex;
-  gap: 25px;
+  gap: 20px;
   list-style: none;
 }
 .nav-icons {
   display: flex;
   gap: 15px;
+}
+nav img {
+   width:12px;
+}
+.nav-icons img {
+       width:12px;
+       height:auto;
+       
 }

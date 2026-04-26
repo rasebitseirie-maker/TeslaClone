@@ -92,3 +92,7 @@ height: 1500px;
   gap:20px;
   justify-content: center;
 }
+
+#cards {
+  margin-top: 40px;
+}

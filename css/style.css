@@ -60,7 +60,7 @@ height: 1500px;
   justify-content: center;
   margin-top: 20px;
 }
-.primary-btn,
+.primary-btn
 .secondary-btn {
   padding: 12px 40px;
   border-radius: 10px;

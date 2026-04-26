@@ -53,7 +53,30 @@ height: 1500px;
   align-items: center;
   filter: brightness(1.25);
 }
-  }
+  .hero-buttons {
+  display: flex;
+  gap: 5px;
+  justify-content: center;
+}
+.primary-btn,
+.secondary-btn {
+  padding: 12px 40px;
+  border-radius: 10px;
+  border: none;
+  font-size: 14px;
+  cursor: pointer;
+}
+.primary-btn {
+  background-color: #3e6ae1;
+  color: white;
+}
+.primary-btn:hover {
+  background-color: #3457c1;
+}
+
+.secondary-btn:hover {
+  background-color: #d6d6d6;
+}
  
 #cards {
   display:flex;

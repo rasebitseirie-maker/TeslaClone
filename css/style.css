@@ -44,8 +44,13 @@ header {
   padding:0;
   box-sizing:border-box;
 
-  .hero {
+.hero {
 background: url("images/hero.jpg") center no-repeat;
 width: 100vw;
   }
  
+#cards {
+  display:flex;
+  gap:20px;
+  justify-content: center;
+}

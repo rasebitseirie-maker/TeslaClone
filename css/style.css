@@ -45,12 +45,13 @@ header {
   box-sizing:border-box;
 
 #hero {
-background: url("images/hero.jpg") center no-repeat;
-height: 100vw;
+background: url("../images/hero.jpg") center no-repeat;
+height: 1500px;
  display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  filter: brightness(1.25);
 }
   }
  

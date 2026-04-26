@@ -1,9 +1,43 @@
-
-.logo {
+nav {
+  display:flex;
+  align-items: center;
+ width: 100%;
+ position: relative;
+ padding: 15px 40px;
+}
+.logo img {
   width:100px;
-}   
+} 
+.nav-icons {
+      display: flex;
+      gap:15px;
+      right:40px;
+      top: 15px;
+      position: absolute;
+}
+.nav-icons img{
+     width:25px;
+}
+
+nav ul {
+  display:flex;
+  gap:35px;
+  list-style: none;
+ margin-left: 220px;
+ 
+}
 
 
+header {
+  width:100%;
+  justify-items:space-between ;
+  align-items: center;
+}
+
+.cards {
+  display:flex;
+  gap: 10px;
+}
 *{
   margin:0;
   padding:0;
